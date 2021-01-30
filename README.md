@@ -1,5 +1,3 @@
 # Python
 
-## Editing the file
-
-Everything about Python (Exercises, Projects, ...)
+## My repository about Python for Data Science (Exercises, Projects, ...)
