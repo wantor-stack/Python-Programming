@@ -1,3 +1,3 @@
 # Python
 
-## My PythonPlayground Repository for Data Science
+## My Python Playground Repository for Data Science
