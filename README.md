@@ -1,3 +1,3 @@
-# Python Repository
+# Python Programming
 
-### My Python Playground Repository for Data Science
+### My Python Programming Repository
